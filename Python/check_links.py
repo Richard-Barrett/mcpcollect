@@ -1,4 +1,12 @@
 #!/bin/python
+# ===========================================================
+# Created By: Richard Barrett
+# Organization: Mirantis
+# DepartmenT: L1 Support
+# Purpose: Check Links on Website
+# Date: 02/26/2020
+# ===========================================================
+
 from bs4 import BeautifulSoup,SoupStrainer
 import urllib.request
 import colorama,re,queue,threading
