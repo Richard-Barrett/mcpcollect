@@ -1,4 +1,4 @@
-# mcpcollect
+# MCPCollect
 MCP Log/Diagnostics collection tool
 
 Note : at the time of writing this config the list of salt grains and related commands and collection information is incomplete
